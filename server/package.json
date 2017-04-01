@@ -9,7 +9,8 @@
   "author": "omkar dusane",
   "license": "ISC",
   "dependencies": {
-	"express": "^4.13.4",
+    "body-parser": "^1.17.1",
+    "express": "^4.13.4",
     "mongoose": "^4.4.2"
   }
 }
